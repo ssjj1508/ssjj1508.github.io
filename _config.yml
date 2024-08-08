@@ -29,7 +29,7 @@ analytics:
 discus-identifier: # Add your Disqus identifier
 
 # Important settings
-assets:
+assets: 
   sources:
     - assets/fonts
     - assets/img
