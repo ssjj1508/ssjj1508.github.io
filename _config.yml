@@ -1,4 +1,4 @@
-title: Wendell Thomas
+title: SeongJae's blog
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,9 +9,9 @@ permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
-name: Wendell Thomas
-tagline: Full Stack Developer
-about-description: # Add Discription
+name: SeongJae Shin
+tagline: YongMoon High School student
+about-description: 저는 용문고등학교에 재학중인 신성재라고 합니다.
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
